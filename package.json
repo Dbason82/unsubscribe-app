@@ -17,5 +17,8 @@
     "url": "https://github.com/Dbason82/unsubscribe-app/issues"
   },
   "homepage": "https://github.com/Dbason82/unsubscribe-app#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
