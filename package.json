@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Dbason82/unsubscribe-app#readme",
   "description": "",
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
   }
 }
